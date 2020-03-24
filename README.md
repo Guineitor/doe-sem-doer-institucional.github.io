@@ -12,7 +12,7 @@ Alexandre Mikel
 
 Eduardo Salvatore
 
-@Guineitor
+@guineitor
 
 
 ENS domanin: doesemdoer.eth		 
