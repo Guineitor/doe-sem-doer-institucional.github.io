@@ -8,9 +8,11 @@ mexem com as estruturas sociais de qualquer metrópoles.
 
 
 ## Autores 
-Alexandre Mikel 
+Alexandre Mikel
+
 Eduardo Salvatore
-@Guineitor
+
+@guineitor
 
 
 ENS domanin: doesemdoer.eth		 
